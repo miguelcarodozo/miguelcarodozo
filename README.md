@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋 
 
-<!--
-**miguelcarodozo/miguelcarodozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering student** passionate about coding and problem-solving. Interested in embedded systems and AI.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:**  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=miguelcarodozo&show_icons=true&theme=radical)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcarodozo&layout=compact&theme=radical)  
+
+## 📫 Connect with Me
+- LinkedIn: [![Linkedin](https://img.icons8.com/ios-filled/30/228BE6/linkedin.png)](www.linkedin.com/in/miguel-cardozo-00000-)
