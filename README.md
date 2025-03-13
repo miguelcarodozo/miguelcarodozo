@@ -15,4 +15,4 @@ I'm a **Computer Engineering student** passionate about coding and problem-solvi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelcarodozo&layout=compact&theme=radical)  
 
 ## 📫 Connect with Me
-- LinkedIn: [![Linkedin](https://img.icons8.com/ios-filled/30/228BE6/linkedin.png)](www.linkedin.com/in/miguel-cardozo-00000-)
+- LinkedIn: [![Linkedin](https://img.icons8.com/ios-filled/30/228BE6/linkedin.png)](https://www.linkedin.com/in/miguel-cardozo-00000-)
